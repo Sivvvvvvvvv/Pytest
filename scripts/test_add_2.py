@@ -7,7 +7,7 @@ import pytest
 
 from tools import add
 
-data_list = [(0, 10, 10), (1, 5, 6), (9, 7, 16), (10, 10, 21)]
+data_list = [(0, 10, 10), (1, 5, 6), (9, 7, 16), (10, 10, 20)]
 
 
 class TestAdd:

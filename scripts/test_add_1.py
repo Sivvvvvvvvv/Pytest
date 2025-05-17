@@ -32,4 +32,4 @@ class TestAdd:
 
     def test_3(self):
         print('9, 7, 16 用例通过')
-        assert 17 == add(9, 7)
+        assert 16 == add(9, 7)
